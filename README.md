@@ -114,5 +114,4 @@ Beyond the technical skills, this project taught me three analytical habits:
 
 **KS Sonu** — Data Analyst  
 📧 ks.sonu@outlook.com  
-🔗 [LinkedIn](https://linkedin.com/in/ks-sonu/)  
-💻 [GitHub](https://github.com/KS-Sonu)
+🔗 [LinkedIn](https://linkedin.com/in/ks-sonu/) 
