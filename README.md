@@ -84,20 +84,6 @@ Dunzo delivers **89.7% of orders in under 20 minutes** — one of the fastest in
 
 ---
 
-## Files in This Repository
-
-```
-Q-Commerce-Competitive-Analysis/
-├── dashboard/
-│   └── Quick_Commerce_Analysis_KS_Sonu.pbix    # Power BI Dashboard (2 pages)
-├── assets/
-│   ├── dashboard_page1.png                     # Market Overview screenshot
-│   └── dashboard_page2.png                     # The Anomaly screenshot
-└── README.md
-```
-
----
-
 ## What I Learned
 
 Beyond the technical skills, this project taught me three analytical habits:
