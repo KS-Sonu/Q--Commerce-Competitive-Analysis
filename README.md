@@ -39,11 +39,11 @@ Dunzo delivers **89.7% of orders in under 20 minutes** — one of the fastest in
 
 **Page 1 — Market Overview**
 
-![Page 1](assets/dashboard_page1.png)
+![Page 1](dashboard_page1.png)
 
 **Page 2 — The Anomaly**
 
-![Page 2](assets/dashboard_page2.png)
+![Page 2](dashboard_page2.png)
 
 ---
 
